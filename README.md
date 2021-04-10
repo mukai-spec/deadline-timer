@@ -1,2 +1,2 @@
-# deadline-timer
- timer
+# 修論タイマー
+ 

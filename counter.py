@@ -8,7 +8,7 @@ sg.theme('default 1')
 
 dt_now = datetime.datetime.now()
 ###アラームの設定
-wave_obj = sa.WaveObject.from_wave_file("木山裕策－home.wav")
+wave_obj = sa.WaveObject.from_wave_file("好きなアラーム音")
 ###時間設定[入力]
 layout1 = [
     [sg.Text('あるイベントまでの残り時間をお知らせします',font=('',24),pad=(((10,10),(10,10))))],
